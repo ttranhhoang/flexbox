@@ -4,3 +4,6 @@ function cal() {
   return a + b;
 }
 cal();
+function rebase() {
+  return;
+}
